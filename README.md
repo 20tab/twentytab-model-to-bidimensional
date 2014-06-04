@@ -3,7 +3,7 @@ twentytab-model-to-bidimensional
 
 A django app that returns a bidimensional representation of a given model and queryset following foreign keys recursively
 
-* It doesn't work with many-to-many fields yet
+**It doesn't work with many-to-many fields yet**
 
 ## Installation
 
